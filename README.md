@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on **Bank Loan Analysis**
 
-- Hi, I'm looking for Business Data Analyst **Data Visualization, Data Modeling, Data Analysis**
+- Hi, I'm looking for Business Data Analyst **Financial Analust, Fraud Analyst, Mis Analyst**
 
 - 💬 Ask me about **My skills, Experience**
 
