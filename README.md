@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shambhavi Joshi</h1>
-<h3 align="center">A passionate Business data Analyst from India</h3>
+<h3 align="center">A passionate Business Data Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shambhavijoshi17&label=Profile%20views&color=0e75b6&style=flat" alt="shambhavijoshi17" /> </p>
 
